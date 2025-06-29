@@ -1,4 +1,3 @@
-#LockNova - Generador de Contraseñas Seguro y Personalizado
 
 ##  Proyecto Lógica de Programación
 
@@ -9,10 +8,13 @@ Fecha: 29/06/2025
 Materia: Lógica de Programación  
 Carrera: Ing. ciberseguridad
 
+## LockNova - Generador de Contraseñas Seguro y Personalizado
+Locknova es una generador de contrseñas seguro y peresonalizado, creado en phyton y su propósito es demostrar la aplicación práctica de los conceptos aprendidos a lo largo de las cuatro unidades del curso mediante una herramienta funcional, útil y relacionada con mi carrera de ciberseguridad , implemente lo aprendi a los de la materia de logica de programacion que son estructuras condicionales, bucles, estructuras de datos y manejo de archivos, tambien diseñe diagramas de flujo para comprender la lógica del sistema y se desarrolle un menú interactivo para facilitar su uso.
+
 
 ## Objetivo del Proyecto
 
-Diseñar y desarrollar una aplicación funcional en Python que permita al usuario generar contraseñas seguras de manera personalizada o automática, aplicando conocimientos adquiridos sobre condicionales, bucles, y estructuras de datos como listas, tuplas y diccionarios.
+El objetivo es diseñar y desarrollar una aplicación funcional en Python que permita al usuario generar contraseñas seguras de manera personalizada o automática, y le sea facil recordar y que no repita la misma contraseña en varias plataformas, aplicando conocimientos adquiridos en la materia de logica de programacion como los condicionales, bucles, y estructuras de datos como listas, tuplas y diccionarios.
 
 
 ##  Funcionalidades del Programa
