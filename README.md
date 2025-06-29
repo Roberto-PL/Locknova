@@ -2,11 +2,13 @@
 
 ##  Proyecto Lógica de Programación
 
-Institucion: UIDE
+Institucion: UIDE 
+
 Autor: Roberto Joel Pila Lopez  
 Fecha: 29/06/2025  
 Materia: Lógica de Programación  
 Carrera: Ing. ciberseguridad
+
 
 ## Objetivo del Proyecto
 
